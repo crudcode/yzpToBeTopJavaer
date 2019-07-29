@@ -1,4 +1,4 @@
-package com.yzp.cdp.enumUsages;
+package com.yzp.toBeTopJavaer.a_基础篇.枚举;
 
 
 
