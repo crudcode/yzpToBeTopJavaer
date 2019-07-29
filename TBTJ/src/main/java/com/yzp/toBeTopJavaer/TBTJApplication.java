@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class cdpRunApplication {
+public class TBTJApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(cdpRunApplication.class,args);
+        SpringApplication.run(TBTJApplication.class,args);
     }
 }
